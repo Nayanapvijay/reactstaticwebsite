@@ -1,0 +1,20 @@
+#homepage{
+  height:calc(100vh - 56px);
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+background: url("https://c4.wallpaperflare.com/wallpaper/139/444/1000/cristiano-ronaldo-wallpaper-preview.jpg") no-repeat;
+background-size: cover;
+}
+.aboutimage{
+  height:500px;
+}
+.acheivementicons{
+  font-size: 50px;
+}
+.contact{
+  background-color: rgb(49, 48, 48);
+  color: white;
+}
